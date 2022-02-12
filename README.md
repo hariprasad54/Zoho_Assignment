@@ -89,7 +89,7 @@ once you completed click on logout.
 
 ====================================================================================================================================
 
-2.ROLE HEIRARCHY RUN INSTRUCTIONS
+**2.ROLE HEIRARCHY RUN INSTRUCTIONS**
 
 The folder consists of driver.java file
 
