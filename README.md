@@ -1,10 +1,10 @@
 **1) COMMMENT APP RUN INSTRUCTIONS:** 
 
 CommentApp is a web based Application.
-Language stack used us HTML5, CSS, BOOTSTRAP,PHP,MSQL
+Language stack used is HTML5, CSS, BOOTSTRAP,PHP,MSQL
 before going to execute this application few things need to be done
 
-(step by step video attached in zip file)
+(step by step video uploaded to root folder)
 
 ======================================================================================
 
