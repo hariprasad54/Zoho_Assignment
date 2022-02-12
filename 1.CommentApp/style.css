@@ -1,0 +1,80 @@
+.cardmain{
+    height: 100%;  
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+    background-color: #ffff;  
+}
+.commentmain{
+    height: 100%;  
+    display: flex;  
+    /*align-items: center;*/  
+    justify-content: center;  
+    background-color: #ffff;
+}
+.commentbox{
+    width: 70%;
+}
+
+.fg{
+    padding: 5px 0px 5px 0px;
+}
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+.heading{
+    text-align: center;
+    font-size: xx-large;
+}
+.headmain{
+    padding-bottom: 50px;
+}
+.text-main{
+    position: relative;
+    width: 60%;
+    padding: 30px;
+}
+.clinks{
+    text-decoration: none;
+    color: skyblue;
+    font-size: medium;
+}
+form {  
+    padding-top: 10px;  
+    font-size: 14px;  
+    margin-top: 30px;  
+} 
+.cardbody{   
+    width: 330px;  
+    margin: 20px;  
+}
+.display-comments{
+    width: 70%;
+    height: 50%;
+    overflow: scroll;
+    align-items: center;
+    padding-left: 30px;
+}
+.display-filter-btn{
+    padding-left: 64%;
+    padding-bottom: 10px;
+}
+.td{
+    padding: 50px 50px 50px 50px;
+}
+.tr{
+    padding: 5px 5px 5px 5px;
+}
+.display-comment-sub1 .comment-list .comment {
+    border-bottom:1px dashed #efefef;
+    margin-bottom:15px;
+    text-decoration: none;
+}
+.display-comment-sub1 .comment-list .comment img {
+    width:64px;
+    height:64px;
+    border:2px solid #e5e7e8;
+}
